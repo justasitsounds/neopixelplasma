@@ -1,7 +1,6 @@
 /*
-    Multicolored Sound-reactive Plasma for the Arduino Micro-Controller 
-    and NeoPixel Shield/NeoPixel Matrix
-    Copyright (C) 2015 James Prendergast
+    Multicolored Plasma for the Arduino Micro-Controller and NeoPixel Shield
+    Copyright (C) 2013 John Ericksen
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -12,19 +11,13 @@
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
     GNU General Public License for more details.
-
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see http://www.gnu.org/licenses/.
 */
-
 /* 
     This is a derivative work that is combined from two sources:
     
-    Multicolored Plasma for the Arduino Micro-Controller and NeoPixel Shield
-    https://github.com/johncarl81/neopixelplasma
-    Copyright (C) 2013 John Ericksen
-
-    and 
+    fscale function and microphone smaple code copied from:
 
     Adafruit's LED Ampli-Tie-with-Flora project:
     https://github.com/adafruit/LED-Ampli-Tie-with-Flora
